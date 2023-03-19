@@ -1,11 +1,3 @@
-> **Warning** : This repository/project is no longer maintained.
-
-I always upload them to the [KDE Store](https://store.kde.org).
-
-
-# Overview
-
-## Dolphin Service Menus
-
-### [Open with VSCodium](https://store.kde.org/p/1588485)
-Adding `Open with VSCodium` to the menu. VSCodium is a VSCode fork which fixes microsoft privacy issues.
+## forked from zer0-x/dolphin-service-menus
+Due to zer0-x give up maintenance this repository/project.
+由于原作者 zer0-x 放弃了维护他在github的仓库，我fork出本仓库继续修正一些小问题。

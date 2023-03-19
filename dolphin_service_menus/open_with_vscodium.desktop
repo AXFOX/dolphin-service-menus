@@ -1,6 +1,6 @@
 [Desktop Action openvscodium]
-Exec=vscodium %F
-Icon=vscodium
+Exec=codium %F
+Icon=codium
 Name=Open with VSCodium
 Name[ar]=الفتح بواسطة VSCodium
 Name[nl]=Openen met VSCodium

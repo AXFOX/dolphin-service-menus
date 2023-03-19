@@ -5,4 +5,4 @@ Due to zer0-x give up maintenance this repository/project ,I fork this project t
 
 ## 用途:
 Adding Open with VSCodium to the menu. VSCodium is a VSCode fork which fixes microsoft privacy issues.
-将 Open by VSCodium打开添加到菜单中。VSCodium是一个VSCode分支，它修复了微软的隐私问题。
+将 Open With VSCodium打开添加到菜单中。VSCodium是一个VSCode分支，它修复了微软的隐私问题。

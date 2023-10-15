@@ -2,6 +2,7 @@
 Exec=codium %F
 Icon=codium
 Name=Open with VSCodium
+Name[fr]=Ouvrir avec VSCodium
 Name[ar]=الفتح بواسطة VSCodium
 Name[nl]=Openen met VSCodium
 
